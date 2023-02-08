@@ -1,0 +1,14 @@
+{
+  "name": "dharra nodejs app using docker",
+  "version": "1.0.0",
+  "description": "nodejs web app inside a docker container by dharra",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kumar Anil Panchal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
